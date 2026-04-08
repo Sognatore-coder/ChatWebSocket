@@ -1,0 +1,29 @@
+# Compiled
+target/
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+.settings/
+.project
+.classpath
+.factorypath
+.springBeans
+.sts4-cache
+.vscode/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Maven wrapper jar
+.mvn/wrapper/maven-wrapper.jar
+
+# Temp
+*.tmp
+*.temp
